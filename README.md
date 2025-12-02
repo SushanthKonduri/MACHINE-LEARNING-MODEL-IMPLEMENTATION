@@ -1,16 +1,9 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
-COMPANY: CODTECH IT SOLUTIONS
-
 NAME: K.Sushanth
 
-INTERN ID: CT08SDQ
 
 DOMAIN: Python Programming
-
-DURATION: 4 WEEEKS
-
-MENTOR: NEELA SANTOSH
 
 Description:Machine learning (ML) is a key component of modern artificial intelligence, enabling computers to learn from data and make predictions without explicit programming. Implementing a machine learning model in Python involves various steps, from data preprocessing to model training and evaluation. Python's rich ecosystem of ML libraries, such as Scikit-learn, TensorFlow, and PyTorch, provides powerful tools for building and deploying predictive models efficiently.
 
